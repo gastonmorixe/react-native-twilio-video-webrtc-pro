@@ -1,6 +1,6 @@
 {
   "name": "react-native-twilio-video-webrtc-pro",
-  "version": "0.1.0",
+  "version": "4.0.0",
   "description": "Twilio Video WebRTC for React Native.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -198,5 +198,8 @@
   "create-react-native-library": {
     "type": "view-mixed",
     "version": "0.42.2"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }

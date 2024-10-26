@@ -10,15 +10,13 @@ npm install react-native-twilio-video-webrtc-pro
 
 ## Usage
 
-
 ```js
-import { TwilioVideoWebrtcProView } from "react-native-twilio-video-webrtc-pro";
+import { TwilioVideoWebrtcProView } from 'react-native-twilio-video-webrtc-pro';
 
 // ...
 
-<TwilioVideoWebrtcProView color="tomato" />
+<TwilioVideoWebrtcProView color="tomato" />;
 ```
-
 
 ## Contributing
 
@@ -26,7 +24,8 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 
 ## License
 
-MIT
+Copyright (c) 2024-present Gaston Morixe <gaston@gastomorixe.com>
+This is a proprietary software, all rights reserved.
 
 ---
 

@@ -1,10 +1,14 @@
 #ifdef RCT_NEW_ARCH_ENABLED
 #import "TwilioVideoWebrtcProView.h"
 
-#import <react/renderer/components/RNTwilioVideoWebrtcProViewSpec/ComponentDescriptors.h>
-#import <react/renderer/components/RNTwilioVideoWebrtcProViewSpec/EventEmitters.h>
-#import <react/renderer/components/RNTwilioVideoWebrtcProViewSpec/Props.h>
-#import <react/renderer/components/RNTwilioVideoWebrtcProViewSpec/RCTComponentViewHelpers.h>
+#import <ComponentDescriptors.h>
+#import <EventEmitters.h>
+#import <Props.h>
+#import <RCTComponentViewHelpers.h>
+//#import <react/renderer/components/RNTwilioVideoWebrtcProViewSpec/ComponentDescriptors.h>
+//#import <react/renderer/components/RNTwilioVideoWebrtcProViewSpec/EventEmitters.h>
+//#import <react/renderer/components/RNTwilioVideoWebrtcProViewSpec/Props.h>
+//#import <react/renderer/components/RNTwilioVideoWebrtcProViewSpec/RCTComponentViewHelpers.h>
 
 #import "RCTFabricComponentsPlugins.h"
 #import "Utils.h"

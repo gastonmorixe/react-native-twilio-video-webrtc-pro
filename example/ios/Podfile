@@ -28,6 +28,8 @@ target 'TwilioVideoWebrtcProExample' do
     # Pods for testing
   end
 
+  # script_phase :name => "Inoke Codegen",
+  #   :script => "cd \"$WORKSPACE_PATH/../../../\" && npx bob build --target codegen"
 
   pre_install do |installer|
     system("cd ../../ && npx bob build --target codegen")
